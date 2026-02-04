@@ -1,2 +1,2 @@
 # operating-systems-lab
-perating Systems lab work and notes
+operating Systems lab work and notes
